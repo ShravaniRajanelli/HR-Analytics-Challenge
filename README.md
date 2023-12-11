@@ -1,6 +1,17 @@
 # HR-Analytics-Challenge
 Welcome to the HR Analytics project! In this project, we delve into the HR Analytics dataset to gain insights into employee-related metrics and trends. The dataset provides information about employee performance, satisfaction, and various other factors.HR analytics is revolutionising the way human resources departments operate, leading to higher efficiency and better results overall. Human resources has been using analytics for years. However, the collection, processing and analysis of data has been largely manual, and given the nature of human resources dynamics and HR KPIs, the approach has been constraining HR. Therefore, it is surprising that HR departments woke up to the utility of machine learning so late in the game. Here is an opportunity to try predictive analytics in identifying the employees most likely to get promoted.
 
+## Source Link: 
+https://datahack.analyticsvidhya.com/contest/wns-analytics-hackathon-2018-1/
+
+
+## Problem Statement
+The goal of this project is to perform HR analytics and gain insights into employee satisfaction, performance, and factors influencing attrition. Potential analysis areas include:
+* Identifying factors that contribute to employee satisfaction.
+* Analyzing the correlation between the number of projects and employee performance.
+* Predicting employee attrition and exploring factors influencing it.
+
+  
 ## Dataset Overview
 The HR Analytics dataset consists of the following key columns:
 
@@ -14,13 +25,7 @@ The HR Analytics dataset consists of the following key columns:
 * promotion_last_5years: Whether the employee was promoted in the last 5 years (1 for yes, 0 for no).
 * sales: Department in which the employee works.
 * salary: Salary level of the employee (low, medium, high).
-  
-## Problem Statement
-The goal of this project is to perform HR analytics and gain insights into employee satisfaction, performance, and factors influencing attrition. Potential analysis areas include:
 
-* Identifying factors that contribute to employee satisfaction.
-* Analyzing the correlation between the number of projects and employee performance.
-* Predicting employee attrition and exploring factors influencing it.
   
 ## Analysis Steps
 ### Data Cleaning:
@@ -42,8 +47,6 @@ Detailed analysis results, visualizations, and insights can be found in the Jupy
 Python 3.x
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter.
 
-## Source Link: 
-https://datahack.analyticsvidhya.com/contest/wns-analytics-hackathon-2018-1/
 
 Feel free to explore and contribute to this project! If you have any questions or suggestions, please contact me at shravanirajanelli@gmail.com.
 
